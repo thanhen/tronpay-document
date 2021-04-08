@@ -69,8 +69,8 @@
   - [常见问题](/api/asset/faq.md)
 
 ## 联系
-- [常见问题](/api/asset/faq.md)
-- servicegg@pm.me
+- Telegram: jackslowfak
+- Email: servicegg@pm.me
 
 ## License
 [BSD](https://www.wikiwand.com/en/BSD_licenses)

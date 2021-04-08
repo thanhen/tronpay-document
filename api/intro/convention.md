@@ -35,3 +35,11 @@ application/x-www-form-urlencoded
 ```
 
 > 上述数据返回结构中，当 code = 200 时代表成功状态，content 为具体的数据内容。否则为失败状态，content 为相关的错误信息。
+
+### 区块链浏览器
+
+> 如接口有返回 txn_hash 字段，商户可前往以下波场区块链浏览器，查询交易详细信息。
+
+TRON 主网络：[https://tronscan.io](https://tronscan.io)
+
+TRON 测试网：[https://shasta.tronscan.io](https://shasta.tronscan.io)
